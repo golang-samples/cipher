@@ -1,8 +1,8 @@
 package main
 
 import (
-	"crypto/des"
 	"crypto/cipher"
+	"crypto/des"
 	"fmt"
 	"math/rand"
 )
